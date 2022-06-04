@@ -6,7 +6,7 @@ metaheuristics and mixed integer program (MIP) codes for generalized assignment 
 
 ## Feature
 - Simple implementation of metaheuristics in Python.
-- Local search with shift and swap neighborhood.
+- Local search with shift and swap neighborhood search.
 - Adaptive control of penalty weights.
 
 ## Usage
