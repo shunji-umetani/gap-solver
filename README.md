@@ -4,7 +4,7 @@ metaheuristics and mixed integer program (MIP) codes for generalized assignment 
 - `gap_grb.py` [Gurobi implemenation](https://github.com/shunji-umetani/gap-solver/blob/main/gap_grb.py "gap_grb.py") (required Gurobi Optimization)
 - `gap_pymip.py` [Python-MIP implementation](https://github.com/shunji-umetani/gap-solver/blob/main/gap_pymip.py "gap_pymip.py") (required Python-MIP library)
 
-## Features
+## Feature
 - Simple implementation of metaheuristics in Python.
 - Local search with shift and swap neighborhood.
 - Adaptive control of penalty weights.
