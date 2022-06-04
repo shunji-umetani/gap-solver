@@ -8,6 +8,7 @@ metaheuristics and mixed integer program (MIP) codes for generalized assignment 
 - Simple implementation of metaheuristics in Python.
 - Local search with shift and swap neighborhood search.
 - Adaptive control of penalty weights.
+- For GAP instances in http://www.al.cm.is.nagoya-u.ac.jp/~yagiura/gap/.
 
 ## Usage
 ```
