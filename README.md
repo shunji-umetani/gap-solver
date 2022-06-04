@@ -15,3 +15,9 @@ $ gap_wls.py [-h] [-t TIME] filename
 ```
 - `filename` GAP instance (mandatory)
 - `-t` timelimit (optional, default 60 sec) 
+
+## Author
+[Umetani, Shunji](https://github.com/shunji-umetani)
+
+## License
+This software is released under the MIT License, see LICENSE.
