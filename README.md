@@ -11,6 +11,7 @@ metaheuristics and mixed integer program (MIP) codes for generalized assignment 
 - For GAP instances in http://www.al.cm.is.nagoya-u.ac.jp/~yagiura/gap/.
 
 ## Usage
+common usage for all codes
 ```
 $ gap_wls.py [-h] [-t TIME] filename 
 ```
